@@ -1,0 +1,32 @@
+[12-Nov-2020 07:08:31 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:08:31 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 234
+[12-Nov-2020 07:09:14 UTC] PHP Notice:  Undefined variable: id in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 10
+[12-Nov-2020 07:09:14 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:09:14 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 234
+[12-Nov-2020 07:11:08 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:11:08 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 234
+[12-Nov-2020 07:11:23 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:11:23 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 234
+[12-Nov-2020 07:12:26 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:12:26 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 234
+[12-Nov-2020 07:14:54 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:14:54 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 234
+[12-Nov-2020 07:14:54 UTC] PHP Notice:  Undefined index: firstname in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 287
+[12-Nov-2020 07:14:54 UTC] PHP Notice:  Undefined index: firstname in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 287
+[12-Nov-2020 07:15:29 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:15:29 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 234
+[12-Nov-2020 07:15:59 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:15:59 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 234
+[12-Nov-2020 07:16:46 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:16:53 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:17:27 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:18:39 UTC] PHP Notice:  Undefined variable: valueUser in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 225
+[12-Nov-2020 07:55:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/us52ftf1c7tw/public_html/acf/members_details.php on line 223
+[12-Nov-2020 08:01:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/us52ftf1c7tw/public_html/acf/Admin/controller/function.php on line 48
+[12-Nov-2020 08:01:41 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/us52ftf1c7tw/public_html/acf/Admin/controller/function.php on line 48
+[12-Nov-2020 08:02:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/us52ftf1c7tw/public_html/acf/Admin/controller/function.php on line 48
+[12-Nov-2020 08:02:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/us52ftf1c7tw/public_html/acf/Admin/controller/function.php on line 48
+[12-Nov-2020 08:03:54 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/us52ftf1c7tw/public_html/acf/Admin/controller/function.php on line 48
+[12-Nov-2020 08:18:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/us52ftf1c7tw/public_html/acf/Admin/controller/function.php on line 48
+[12-Nov-2020 08:18:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/us52ftf1c7tw/public_html/acf/Admin/controller/function.php on line 48
+[12-Nov-2020 08:19:42 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/us52ftf1c7tw/public_html/acf/Admin/controller/function.php on line 48
